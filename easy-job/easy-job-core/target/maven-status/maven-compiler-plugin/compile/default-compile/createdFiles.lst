@@ -1,0 +1,10 @@
+com\easy\job\core\model\Group.class
+com\easy\job\core\handler\EasyJobHandler.class
+com\easy\job\core\dao\GroupDao.class
+com\easy\job\core\model\Task.class
+com\easy\job\core\service\impl\WorkerServiceImpl.class
+com\easy\job\core\model\Worker.class
+com\easy\job\core\service\GroupService.class
+com\easy\job\core\handler\model\TaskResult.class
+com\easy\job\core\model\TaskLog.class
+com\easy\job\core\service\WorkerService.class
